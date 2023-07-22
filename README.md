@@ -1,8 +1,8 @@
 # eric-simon-matplotlib-challenge
 
-Module 5
+## Module 5
 
-Instructions
+### Instructions
 
 * Prepare the Data
 * Generate Summary Statistics
